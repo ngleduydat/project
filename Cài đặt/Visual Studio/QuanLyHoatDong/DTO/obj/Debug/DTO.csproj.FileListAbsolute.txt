@@ -1,0 +1,12 @@
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\bin\Debug\DTO.dll
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\bin\Debug\DTO.pdb
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\obj\Debug\DTO.dll
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\obj\Debug\DTO.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\bin\Debug\DTO.dll
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\bin\Debug\DTO.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\obj\Debug\DTO.dll
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DTO\obj\Debug\DTO.pdb

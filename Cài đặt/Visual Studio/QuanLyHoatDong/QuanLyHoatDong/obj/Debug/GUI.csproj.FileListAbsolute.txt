@@ -1,0 +1,47 @@
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\QuanLyHoatDong.exe.config
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\QuanLyHoatDong.exe
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\QuanLyHoatDong.pdb
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\BLL.dll
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\DTO.dll
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\DAL.dll
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\BLL.pdb
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\DTO.pdb
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\DAL.pdb
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmCapNhatThongTinSinhVien.resources
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.Properties.Resources.resources
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.exe
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.pdb
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmLogin.resources
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmTable.resources
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmQuanLy.resources
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\QuanLyHoatDong.exe.config
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\QuanLyHoatDong.exe
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\QuanLyHoatDong.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\BLL.dll
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\DTO.dll
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\DAL.dll
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\BLL.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\DTO.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\DAL.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmCapNhatThongTinSinhVien.resources
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmLogin.resources
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmQuanLy.resources
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmTable.resources
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.Properties.Resources.resources
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.exe
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\Guna.UI2.dll
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\Radius.dll
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmSinhVien.resources
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\bin\Debug\DAL.dll.config
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmBanToChuc.resources
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmDonViQuanLy.resources
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\QuanLyHoatDong\obj\Debug\QuanLyHoatDong.FrmAdmin.resources

@@ -1,0 +1,16 @@
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\bin\Debug\DAL.dll
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\bin\Debug\DAL.pdb
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\obj\Debug\DAL.dll
+C:\Users\DuyDat\Desktop\BI001-20220311T165739Z-001\BI001\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\obj\Debug\DAL.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\bin\Debug\DAL.dll
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\bin\Debug\DAL.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\obj\Debug\DAL.dll
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\obj\Debug\DAL.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\bin\Debug\DAL.dll.config
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\bin\Debug\DTO.dll
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\bin\Debug\DTO.pdb
+C:\Users\duyda\Downloads\Khóa luận tốt nghiệp\Khóa luận tốt nghiệp\Khóa luận\Khóa luận\Khóa luận của Đạt\Cài đặt\Visual Studio\QuanLyHoatDong\DAL\obj\Debug\DAL.csproj.CopyComplete
