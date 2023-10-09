@@ -1,4 +1,4 @@
-﻿using QuanLyHoatDong.DTO;
+using QuanLyHoatDong.DTO;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -41,8 +41,7 @@ namespace QuanLyHoatDong.DAL
                     break;
             }
 
-            SqlConnection connection = DataConnection.getConnect();
-
+            /*
             //B3: Khởi tạo đối tượng của lớp SqlDataAdapter
             data = new SqlDataAdapter(sqlString, connection);
 
@@ -56,7 +55,26 @@ namespace QuanLyHoatDong.DAL
 
             //B6: Đóng kết nối
             connection.Close();
-            return dataTable;
+            return dataTable;*/
+            //SqlConnection connection = Dataconnection.GetConnection();
+            SqlConnection connection = DataConnection.getConnect();
+            SqlCommand command = new SqlCommand("SELECT * FROM TaiKhoan", connection);
+          
+            //SqlCommand cmd = new SqlCommand();
+          
+           // cmd.Connection = conn;
+
+            SqlDataAdapter data = new SqlDataAdapter(command);
+
+            connection.Open();
+
+            DataTable dt = new DataTable();
+            data.Fill(dt);
+
+            connection.Close();
+
+            return dt;
+
         }
 
         //public DataTable getInformationAccount()
